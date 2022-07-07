@@ -1,4 +1,4 @@
--###  Hi, I’m Hempushp Bagad 👋
+  Hi, I’m Hempushp Bagad 👋
 
 
 - 👀 I’m interested in Front-End Development
